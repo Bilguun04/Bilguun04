@@ -1,4 +1,4 @@
-👋 Hey there! I'm a passionate second-year software engineering student. My coding adventure revolves around back-end development specifically in Python and Java. 🌟 I'm all about collaborating on projects that create positive impacts. Feel free to contact to my [linkedin](https://www.linkedin.com/in/bilguun-tegshbayar-5ba830228/) or [personal mail](bilguunbek0607@gmail.com) for contribution!
+👋 Hey there! I'm a passionate second-year software engineering student. My coding adventure revolves around back-end development specifically in Python and Java. 🌟 I'm all about collaborating on projects that create positive impacts. Feel free to contact to my [linkedin](https://www.linkedin.com/in/bilguun-tegshbayar-5ba830228/) or [personal mail](mailto:bilguunbek0607@gmail.com) for contribution!
 
 🚀 Welcome to my GitHub domain! As a back-end developer, I mainly work in crafting scalable web applications using the magical concoction of Python, Tensorflow, and Java. When I'm not busy working on projects, you'll find me participating online coding competitions and hackathons, fueling my passion for continuous learning and innovation!
 
