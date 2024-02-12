@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks and front-end development**
 
-- 👯 I’m looking to collaborate on **WareFlow**
+- 👯 I’m looking to collaborate on **open-source projects such as Tensorflow and Pygame**
 
 - 👨‍💻 All of my projects are available at [Bilguun's Portfolio](https://sites.google.com/view/bilguun-tegshbayars-portfolio)
 
