@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Bilguun Tegshbayar</h1>
 <h3 align="center">A software engineering student passionate about back-end development</h3>
 
-- 🔭 I’m currently working on **Chess** and bunch of other stuff!
+- 🔭 I’m currently working on bunch of cool stuff!
 
-- 🌱 I’m currently learning **CI/CD, Frameworks and front-end development**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 👯 I’m looking to collaborate on **open-source projects**
 
-- 👨‍💻 All of my projects are available at [Bilguun's Portfolio](https://sites.google.com/view/bilguun-tegshbayar/projects?authuser=0)
+- 👨‍💻 All of my projects are available at [Bilguun's Portfolio](https://bilguuntegshbayar.com)
 
-- 📫 How to reach me **bilguun.tegshbayar@mail.mcgill.ca**
+- 📫 How to reach me [School email](mailto:bilguun.tegshbayar@mail.mcgill.ca), [Personal email](mailto:bilguunbek0607@gmail.com)
 
-- 📄 Know about my experiences [Resume](https://sites.google.com/view/bilguun-tegshbayar/resume?authuser=0)
+- 📄 Know about my experiences [Resume](https://bilguuntegshbayar.com)
 
 - ⚡ Fun fact **I can sleep after cup of coffee or energy drink**
 
