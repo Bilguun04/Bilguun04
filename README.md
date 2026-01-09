@@ -14,7 +14,7 @@
 I'm a passionate **Software Engineering** student at McGill University with a strong focus on **back-end development** and **full-stack solutions**. Currently building enterprise-grade platforms and leading technical teams to solve real-world problems.
 
 - 🏆 **McGill Engine TechAccel Award** recipient for VentureCircle
-- 💼 Founder & CTO at [VentureCircle](https://venturecircle.io) - serving 200+ entrepreneurs and 80+ startup projects
+- 💼 Founder & CTO at [VentureCircle](https://venturecircle.io) - serving 200+ entrepreneurs and helping various startup projects
 - 🔭 Currently working on **VentureCircle** and exploring **Machine Learning & AI**
 - 🌱 Expanding my expertise in **cloud architecture**, **distributed systems**, and **AI/ML**
 - 👯 Open to collaborating on **open-source projects** and **innovative startups**
@@ -58,21 +58,21 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 ### [VentureCircle](https://venturecircle.io) 🚀
 **Enterprise startup collaboration platform**
 - 🏆 McGill Engine TechAccel Award recipient
-- 👥 Serving 200+ active entrepreneurs managing 80+ projects
-- 🛠️ **Tech**: Django REST Framework, Firebase, Tailwind CSS, GitHub Actions
+- 👥 Serving 200+ active entrepreneurs and helping various startup projects
+- 🛠️ **Tech**: Django REST Framework, Firebase, Tailwind CSS, Amazon Web Service EC2
 - ✅ Achieved 85% code coverage with automated testing
 
-### iOS / Windows UI Replica 💻
+### [iOS / Windows UI Replica 💻](https://anndasound.com/)
 **Pixel-perfect OS interface simulation**
 - 🎨 50+ interactive components with dynamic theme switching
 - ⚡ 60fps animations across all modern browsers
 - 🔧 **Tech**: JavaScript, CSS3, DOM manipulation
 
-### Banking System 🏦
+### [Banking System 🏦](https://bilguuntegshbayar.com/gallery/Banking-System)
 **Secure financial transaction platform**
 - 🔐 Role-based access control and secure authentication
 - 💳 Fund transfer with validation and error handling
-- 🛠️ **Tech**: Backend-focused architecture with security best practices
+- 🛠️ **Tech**: Java, [Cucumber.io](https://cucumber.io), Behavior Driven Development, React, PostgreSQL
 
 ### PosRed 📝
 **Poetry-focused social networking platform**
@@ -84,7 +84,7 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 
 ## 💼 Professional Experience
 
-**Founder & CTO** @ VentureCircle | *April 2025 – Present*
+**Founder & CTO** @ [VentureCircle](https://venturecircle.io) | *April 2025 – Present*
 - Leading cross-functional team of 3 developers through full product lifecycle
 - Established CI/CD pipelines and automated testing infrastructure
 - Deployed enterprise-grade platform with 200+ active users
