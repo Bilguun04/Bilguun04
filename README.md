@@ -41,6 +41,7 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -50,6 +51,10 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### APIs & Services
+![Auth0](https://img.shields.io/badge/Auth0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
@@ -62,6 +67,15 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 - 🛠️ **Tech**: Django REST Framework, Firebase, Tailwind CSS, Amazon Web Service EC2
 - ✅ Achieved 85% code coverage with automated testing
 
+### [Vantage](https://devpost.com/software/vantage-ihlygw) 🤖
+**AI-Powered Voice Assistant with Sci-Fi Interface**
+
+- 🎙️ Real-time voice interaction with natural language processing
+- 🔐 Secure authentication system with persistent chat history
+- 💬 Context-aware conversation engine powered by Google Gemini API
+- 📊 RESTful API architecture with MongoDB for scalable data management
+- 🛠️ Tech: Django REST Framework, MongoDB, Auth0, Google Gemini API, WebSpeech API
+
 ### [iOS / Windows UI Replica 💻](https://anndasound.com/)
 **Pixel-perfect OS interface simulation**
 - 🎨 50+ interactive components with dynamic theme switching
@@ -73,12 +87,6 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 - 🔐 Role-based access control and secure authentication
 - 💳 Fund transfer with validation and error handling
 - 🛠️ **Tech**: Java, [Cucumber.io](https://cucumber.io), Behavior Driven Development, React, PostgreSQL
-
-### PosRed 📝
-**Poetry-focused social networking platform**
-- 👥 Full-stack application with user profiles and real-time notifications
-- 🔍 NLP-powered content discovery and moderation
-- 🛠️ **Tech**: Django, MySQL, Natural Language Processing
 
 ---
 
