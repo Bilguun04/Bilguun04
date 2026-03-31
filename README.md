@@ -92,12 +92,17 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 
 ## 💼 Professional Experience
 
+**Full-Stack Developer** @ [CortexFlex Inc](https://cortexflex.org) | *January 2026 – Present*
+- Built full-stack web application for coaches using Django REST Framework and Zulip.
+- Built mobile application using Flutter and Zulip.
+- Collaborated with neuroscience researchers to integrate evidence-based cognitive assessment tools.
+
 **Founder & CTO** @ [VentureCircle](https://venturecircle.io) | *April 2025 – Present*
 - Leading cross-functional team of 3 developers through full product lifecycle
 - Established CI/CD pipelines and automated testing infrastructure
 - Deployed enterprise-grade platform with 200+ active users
 
-**Front-End Developer Intern** @ Insur LLC | *May 2024 – Aug 2024*
+**Front-End Developer Intern** @ [Insur LLC](https://www.mobilife.mn/) | *May 2024 – Aug 2024*
 - Served 5,000+ users with optimized web applications
 - Reduced page load times by 40% through performance optimization
 - Improved team efficiency by 25% through technical documentation
