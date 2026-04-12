@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bilguun Tegshbayar</h1>
-<h3 align="center">Software Engineering Student @ McGill University | Founder & CTO @ VentureCircle</h3>
+<h3 align="center">Software Engineering Student @ McGill University | Founder & CTO @ VentureCircle | Full-Stack Developer @ CortexFlex Inc</h3>
 
 <p align="center">
   <a href="https://bilguuntegshbayar.com">Portfolio</a> •
@@ -116,6 +116,7 @@ I'm a passionate **Software Engineering** student at McGill University with a st
 
 **Certifications:**
 - 🌩️ AWS Certified Cloud Practitioner *(in progress)*
+- 🏆 [Dobson Cup Certificate](DBC_Certificate.pdf)
 
 ---
 
